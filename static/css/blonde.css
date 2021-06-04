@@ -236,3 +236,7 @@ textarea {
 .w-56 {
   width: 14rem;
 }
+
+body {
+background-image: url("checkertranslucent.gif"), url(redjem.gif);
+}
